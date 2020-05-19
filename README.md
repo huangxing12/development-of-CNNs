@@ -82,8 +82,32 @@ Summary of knowledge, code and reading notes of papers on develpoment of convolu
 <a name="RL" />
 
 ## Reinforcement learning
-1. **Designing Neural Network Architectures using Reinforcement Learning.** *He, Kaiming and Zhang, Xiangyu and Ren,.* Proceedings of the IEEE conference on computer vision and pattern recognition, 2016. [[paper](http://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)]
+
+1. **Designing Neural Network Architectures using Reinforcement Learning.** *Baker, Bowen and Gupta，et al.* arXiv preprint arXiv:1611.02167, 2016. [[paper](https://arxiv.org/pdf/1611.02167.pdf)]
+
+2. **Neural Architecture Search with Reinforcement Learning.** *Zoph, Barret and Le, Quoc V.* arXiv preprint arXiv:1611.01578, 2016. [[paper](https://arxiv.org/abs/1611.02167)]
+
+<a name="EA" />
+
+## Evolutionary algorithm
+
+1. **A genetic programming approach to designing convolutional neural network architectures.** *uganuma, Masanori and Shirakawa, Shinichi and Nagao, Tomoharu.* Proceedings of the Genetic and Evolutionary Computation Conference, 2017. [[paper](https://dl.acm.org/doi/pdf/10.1145/3071178.3071229)]
+
+2. **Evolving neural networks through augmenting topologies.** *Stanley, Kenneth O and Miikkulainen, Risto.* Evolutionary computation, 2002. [[paper](https://www.mitpressjournals.org/doi/10.1162/106365602320169811)]
 
 
+3. **Evolving image classification architectures with enhanced particle swarm optimisation.** *Fielding, Ben and Zhang, Li.* IEEE Access, 2018. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8533601)]
 
+4. **Large-scale evolution of image classifiers.** *Real, Esteban and Moore, Sherry and Selle, et al.* Proceedings of the 34th International Conference on Machine Learning-Volume 70, 2017. [[paper](https://dl.acm.org/doi/pdf/10.5555/3305890.3305981?download=true)]
 
+5. **Evolving deep convolutional neural networks for image classification.** *Sun, Yanan and Xue, Bing and Zhang, et al.* IEEE Transactions on Evolutionary Computation, 2019. [[paper](https://arxiv.org/pdf/1710.10741.pdf)]
+
+6. **Genetic cnn.** *Xie, Lingxi and Yuille, Alan.* Proceedings of the IEEE international conference on computer vision, 2017. [[paper](http://openaccess.thecvf.com/content_ICCV_2017/papers/Xie_Genetic_CNN_ICCV_2017_paper.pdf)]
+
+<a name="GBM" />
+
+## Gradient-based method
+1. **Darts: Differentiable architecture search.** *Liu, Hanxiao and Simonyan, Karen and Yang, Yiming.* arXiv preprint arXiv:1806.09055, 2018. [[paper](https://arxiv.org/pdf/1806.09055.pdf)]
+
+2. **Progressive differentiable architecture search: Bridging the depth gap between search and evaluation.** *Chen, Xin and Xie, Lingxi and Wu, Jun and Tian, Qi.* Proceedings of the IEEE International Conference on Computer Vision, 2019. [[paper](openaccess.thecvf.com/content_ICCV_2019/papers/Chen_Progressive_Differentiable_Architecture_Search_Bridging_the_Depth_Gap_Between_Search_ICCV_2019_paper.pdf
+)]
